@@ -5,11 +5,11 @@ from tkinter import *
 from tkinter import messagebox
 
 # CORES
-co0 = "#f0f3f5"  # Preto / Black
-co1 = "#feffff"  # Branco / White
-co2 = "#033333"  # Verde escuro / Dark green
-co3 = "#38576b"  # Valor / Value
-co4 = "#403d3d"  # Letras / Letters
+co0 = "#f0f3f5"  # Black
+co1 = "#feffff"  # White
+co2 = "#033333"  # Dark green
+co3 = "#38576b"  # Value
+co4 = "#403d3d"  # Letters
 
 # Função para reiniciar o programa
 def reiniciar_programa():
